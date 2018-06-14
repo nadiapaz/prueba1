@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+.navbar-nav{
+		
+	background-color:#f2bcdc;
+
+}
+	.navbar-collapse{ 
+	background-color:#f2bcdc;
+
+}
+	h1{
+	text-align: center;
+	font-family:'Pacifico', cursive;
+	font-size: 50px;
+}
+	.jumbotron{
+	background-image: url("portada1.jpg");
+	color:#f2828c;
+	background-color:#f4beeb;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+
+}
+	h2{
+	text-align: center;
+	font-family: sans-serif;
+}
+	.col-sm{
+	text-align:justify;
+	background-image: url("");
+	background-color: #93d4f9;
+	font-size: 17px;
+	color: white;
+}
+
+	img{
+	width: 70%;
+	height: 70%;
+}
+	.carousel-item{
+	height:40%;
+	width:40%;
+	margin-left:20%;
+}
+	.row{
+	clear: both;
+}
+	ul{
+	list-style-type:circle;
+}
+	p{
+	text-align:;
+	margin-left:23%;
+	margin-right:23%;
+}
+	h4{ text-align: center;
+	margin-top: 30px;
+ }
+ 	h3{
+ 	margin-left: 5%;
+ 	margin-top: 5%;
+ 	text-align: center;
+
+ }
+ 	.img-fluid{
+ 	width: 50%;
+ 	height: 60%;
+ 	margin-left:25%;
+ }
+
+ 	.border-secondary mb-3{
+ 		text-align: center;
+ }
+ 	.border-success{
+ 	margin-left: 55%;
+
+ }
+ 	h6{
+	text-align: center;
+	color: black; 
+	margin-top:30px;
+	font-size: 30px;
+ }
+	.imagen-directivos{
+	height: 30%;
+	width: 30%;
+	
+}
+	.rounded-circle{
+	margin-left: 35%;
+}
+	.rounded{
+		width: 25%;
+		height: 25%;
+		margin-top: 3%;
+	}
+	.donacion{
+		margin-left: 19%;
+		position: relative;
+		border: 3px solid pink;
+	}
+
+	.footer-copyright text-center py-3{
+		width: 50%;
+		height: 50%;
+	}
+	.fab{
+		width: 50px;
+	}
